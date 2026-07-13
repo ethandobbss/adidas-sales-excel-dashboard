@@ -17,28 +17,38 @@ The dataset was sourced from Kaggle, and can be found in data/. You can find the
 
 ## Design Rationale
 
+The main page includes a File Index acting as a table of contents, and every page has a navigation button linking back to it.
 
+![Index](assets/index.png)
+
+Each pivot table page also includes a text box explaining the purpose and significance of that specific table, giving context to the data being shown.
+
+![SalesRegions](assets/SalesRegions.png)
+
+Each tab is named directly after the pivot table it contains, so anyone navigating the file can immediately tell what question that page answers without needing to open it first. This intentional 1:1 naming between tabs and tables keeps the workbook easy to navigate, even without the nav buttons.
+
+- Top Products by Sales & Profit: identifies which products drive volume versus which are most profitable per unit
+- Retailers (Sales vs Profit): compares revenue and profitability across retail partners to spot where sales convert efficiently into profit
+- Sales Method: breaks down revenue by in-store, online, and outlet channels to understand where sales are concentrated
+- Sales Regions: displays geographic concentration of sales at the state level
+- Sales Trend: tracks sales over time to reveal seasonal patterns and growth trends
+
+Each pivot table was built to answer a specific business question rather than just summarize data for its own sake. Together they give a well-rounded view of where revenue comes from, what's driving it, and how it's changing over time.
 
 ## Outcome
 
-The final product is a presentation, which you can view [here](pptx/presentation.pdf). This analysis surfaced clear opportunities to reduce duplicate MRN creation and improve resolution efficiency:
+The final product is the Excel dashboard, which you can view [here](excel/Adidas-Excel-Project.xlsx). This dashboard equips executive management with a clear, data-driven view of sales performance, allowing for more informed decision-making. Actionable steps management could take include:
 
-- Internal Registration was the leading source of duplicate MRNs.
-- Incorrect address entry, DOB typos, and transposed names were the top contributing factors, pointing to a need for stronger input validation at the point of registration rather than downstream cleanup.
-- Duplicate events took an average of 9 days to resolve, indicating room to streamline the investigation and merge process.
-
-Recommended next steps include:
-
-- Tightening registration-time validation
-- Prioritizing fixes for the top contributing factors
-- Investing into automation software to avoid user errors
-- Establishing specific, department-level resolution targets
+- Prioritize Foot Locker and Amazon: both show the strongest sales-to-profit conversion, while other retailers lag in profitability despite volume.
+- Investigate the online sales gap: online accounts for just 3% of sales versus 62% in-store, an unusually wide gap worth examining for missed growth opportunity.
+- Plan for the Q4 seasonal spike: sales consistently surge in November-December each year, supporting proactive inventory and staffing decisions.
 
 ## Future Enhancements
 
 Here are some ideas I would explore if I kept building this project further:
 
-- Create a darkmode variant to reduce eye strain
+- I would add a profit margin analysis, calculating profit margin (Operating Profit ÷ Total Sales) to identify which retailers or products convert sales into profit most efficiently, not just which generate the most revenue.
+- Create a darkmode variant to reduce eye strain.
 
 ## Contact Information
 
