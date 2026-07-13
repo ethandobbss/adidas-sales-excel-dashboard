@@ -54,7 +54,7 @@ Here are some ideas I would explore if I kept building this project further:
 
 You can contact me via email at [ethan-jacob@comcast.net](mailto:ethan-jacob@comcast.net) or connect with me on [LinkedIn](https://www.linkedin.com/in/ethan-dobbs).
 
-Thank you for reviewing my Duplicate MRN Analysis Project! I hope this project gives useful insight into how I approach data analysis.
+Thank you for reviewing my Adidas Excel Dashboard Project! It demonstrates my ability to transform raw sales data into an interactive, business-focused dashboard.
 
 ## License
 
