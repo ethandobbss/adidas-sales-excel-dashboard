@@ -1,4 +1,4 @@
-# Duplicate MRN Analysis Project
+# Adidas Sales Excel Dashboard
 
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
