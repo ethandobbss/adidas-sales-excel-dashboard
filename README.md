@@ -60,7 +60,7 @@ The Retailers Sales & Profit chart shows profit climbing across retailers, with 
 In the Top Products chart, Men's Street Footwear has the tallest bars for both units sold and total sales, clearly outperforming the other five categories (Men's Apparel, Men's Athletic Footwear, Women's Apparel, Women's Athletic Footwear, Women's Street Footwear). Women's Apparel is the second-strongest performer by bar height.
 
 ### 5. What time period and product/region scope does this dashboard cover?
-The filter panels show Years: 2020 and 2021 both selected, all six Product categories available (Men's/Women's Apparel, Athletic Footwear, Street Footwear), and all five Regions (Midwest, Northeast, South, Southeast, West) included — confirming the dashboard reflects the full two-year, all-region, all-product dataset rather than a narrowed slice.
+The filter panels show Years: 2020 and 2021 both selected, all six Product categories available (Men's/Women's Apparel, Athletic Footwear, Street Footwear), and all five Regions (Midwest, Northeast, South, Southeast, West) included- confirming the dashboard reflects the full two-year, all-region, all-product dataset rather than a narrowed slice.
 
 ## Future Enhancements
 
