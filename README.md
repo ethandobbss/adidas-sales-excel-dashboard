@@ -43,6 +43,25 @@ The final product is the Excel dashboard, which you can view [here](excel/Adidas
 - Investigate the online sales gap: online accounts for just 3% of sales versus 62% in-store, an unusually wide gap worth examining for missed growth opportunity.
 - Plan for the Q4 seasonal spike: sales consistently surge in November-December each year, supporting proactive inventory and staffing decisions.
 
+## Business Insights
+
+This section presents key business questions the dashboard answers, along with the insights they reveal.
+
+### 1. How did Adidas's monthly sales perform across 2020 and 2021?
+Sales were volatile in 2020, ranging from a low of about $1,816.70K to a high of $10,585.11K, then trended upward through 2021, closing the year at a peak of $23,370.50K in December- the highest point on the entire chart. This shows steady month-over-month growth into year-end 2021.
+
+### 2. Which sales channel contributes the most to total revenue?
+Per the donut chart, In-store sales dominate at 62% of total sales, Outlet accounts for 35%, and Online is minimal at just 3%. In-store is clearly the primary revenue driver, with online being a very small piece of the mix on this dashboard.
+
+### 3. Which retailer delivers the highest cumulative sales and profit?
+The Retailers Sales & Profit chart shows profit climbing across retailers, with West Gear at $12,522.17K, Amazon at $13,398.86K, and Foot Locker topping the chart at $23,914.66K, the highest combined sales-and-profit contribution among all six retailers shown (Walmart, Kohl's, Sports Direct, West Gear, Amazon, Foot Locker).
+
+### 4. Which product category sells the most units and generates the most sales?
+In the Top Products chart, Men's Street Footwear has the tallest bars for both units sold and total sales, clearly outperforming the other five categories (Men's Apparel, Men's Athletic Footwear, Women's Apparel, Women's Athletic Footwear, Women's Street Footwear). Women's Apparel is the second-strongest performer by bar height.
+
+### 5. What time period and product/region scope does this dashboard cover?
+The filter panels show Years: 2020 and 2021 both selected, all six Product categories available (Men's/Women's Apparel, Athletic Footwear, Street Footwear), and all five Regions (Midwest, Northeast, South, Southeast, West) included — confirming the dashboard reflects the full two-year, all-region, all-product dataset rather than a narrowed slice.
+
 ## Future Enhancements
 
 Here are some ideas I would explore if I kept building this project further:
